@@ -1,5 +1,5 @@
 {
-  "name": "wirecard/shopware-ee",
+  "name": "sebastijansakac/shopware-ee",
   "description": "Shopware plugin for Wirecard Payment Processing Gateway",
   "license": "GPL-3.0-only",
   "minimum-stability": "beta",
